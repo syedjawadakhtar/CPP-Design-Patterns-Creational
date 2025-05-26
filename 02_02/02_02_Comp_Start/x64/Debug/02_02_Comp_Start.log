@@ -1,0 +1,3 @@
+﻿  02_02_Comp_Start.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Documents\LinkedIn_Learning\Ex_Files_CPP_Design_Patterns_Creational_2021\Ex_Files_CPP_Design_Patterns_Creational_2021\Exercise Files\02_02\x64\Debug\02_02_Comp_Start.exe : fatal error LNK1120: 1 unresolved externals

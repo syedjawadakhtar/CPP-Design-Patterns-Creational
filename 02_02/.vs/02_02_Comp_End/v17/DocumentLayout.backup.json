@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\LinkedIn_Learning\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Exercise Files\\02_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283A3666-698B-4B86-B989-D56CBDA5680A}|02_02_Comp_End\\02_02_Comp_End.vcxproj|D:\\Documents\\LinkedIn_Learning\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Exercise Files\\02_02\\02_02_Comp_End\\02_02_Comp_End.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{283A3666-698B-4B86-B989-D56CBDA5680A}|02_02_Comp_End\\02_02_Comp_End.vcxproj|solutionrelative:02_02_Comp_End\\02_02_Comp_End.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "02_02_Comp_End.cpp",
+              "DocumentMoniker": "D:\\Documents\\LinkedIn_Learning\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Exercise Files\\02_02\\02_02_Comp_End\\02_02_Comp_End.cpp",
+              "RelativeDocumentMoniker": "02_02_Comp_End\\02_02_Comp_End.cpp",
+              "ToolTip": "D:\\Documents\\LinkedIn_Learning\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Ex_Files_CPP_Design_Patterns_Creational_2021\\Exercise Files\\02_02\\02_02_Comp_End\\02_02_Comp_End.cpp",
+              "RelativeToolTip": "02_02_Comp_End\\02_02_Comp_End.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T17:34:46.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
